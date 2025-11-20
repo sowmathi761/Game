@@ -120,5 +120,3 @@ Thanks for playing!
 * Clear and structured game output
 
 ---
-
-If you want this in PDF format or want a UML diagram, let me know.
